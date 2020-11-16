@@ -1,7 +1,7 @@
 const skills = [
     {skill: 'Javascript', done: true},
-    {skill: 'Node.js', done: false},
-    {skill: 'Epress.js', done: false}
+    {skill: 'Node.js/Express.js', done: true},
+    {skill: 'MongoDB', done: false}
 ];
   
   module.exports = {
