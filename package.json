@@ -1,0 +1,28 @@
+{
+  "name": "express-dev-skills",
+  "version": "1.0.0",
+  "description": "Express JS application that allows you to add remove and edit your known skill as a developer.",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "debug": "~2.6.9",
+    "ejs": "~2.6.1",
+    "express": "~4.17.1",
+    "http-errors": "~1.6.3",
+    "method-override": "^3.0.0",
+    "morgan": "~1.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NairobiSheikh/express-dev-skills.git"
+  },
+  "author": "Nairobi Sheikh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NairobiSheikh/express-dev-skills/issues"
+  },
+  "homepage": "https://github.com/NairobiSheikh/express-dev-skills#readme"
+}
